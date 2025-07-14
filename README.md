@@ -10,9 +10,9 @@
 
 - 💬 Ask me about **Angular, React, Python, Javasrcipt**
 
-- 📫 How to reach me:
-  - **dilavuyo@outlook.com**
-  - **https://dillar-online.vercel.app/**
+- 📫 How to reach me **dilavuyo@outlook.com**
+
+- 👀 My portfolio **https://dillar-online.vercel.app/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
